@@ -1,0 +1,18 @@
+POST /1/events/com.amazon.eel.p.D16GClientSideMetrics.nexus HTTP/1.1
+Host: unagi-na.amazon.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Referer: https://images-na.ssl-images-amazon.com/
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 1189
+Origin: https://images-na.ssl-images-amazon.com
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Te: trailers
+Connection: close
+
+{"events":[{"data":{"eventType":1,"impressionId":"G5LsMHHNNKaQ4HOAB8av7Q","bidId":"tnhKeAldt7ATQbXnQXn4kQ","templateKey":"DACXDynamicTemplates-DynamicEcommerceTemplate_1.0","timestamp":"2026-01-22T20:35:42.241Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0","layoutId":"default","size":"350x420","templateName":"Responsive eCommerce","creativeVariation":"default","creativeFormat":"shop-now","dimensions":{"is1p":true,"domain":"https://www.amazon.com.br/","site":"amazon.com.br"},"is1p":true,"domain":"https://www.amazon.com.br/","creativeId":"591777506218627138"}},{"data":{"eventType":3,"impressionId":"G5LsMHHNNKaQ4HOAB8av7Q","bidId":"tnhKeAldt7ATQbXnQXn4kQ","templateKey":"DACXDynamicTemplates-DynamicEcommerceTemplate_1.0","timestamp":"2026-01-22T20:35:42.393Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0","layoutId":"default","size":"350x420","creativeVariation":"default","creativeFormat":"shop-now","domain":"https://www.amazon.com.br/","dimensions":{"subType":1,"payload":{"component":"product-description","visibleChars":16,"totalChars":40}},"creativeId":"591777506218627138"}}]}
