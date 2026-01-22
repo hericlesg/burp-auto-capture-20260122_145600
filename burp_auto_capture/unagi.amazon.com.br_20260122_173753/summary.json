@@ -1,0 +1,47 @@
+{
+  "capture_timestamp": "20260122_173753", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/unagi.amazon.com.br_20260122_173753/request_001.txt", 
+      "url": "https://unagi.amazon.com.br:443/1/events/com.amazon.csm.nexusclient.prod", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/unagi.amazon.com.br_20260122_173753/response_001.txt", 
+      "timestamp": 1769114143440
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/unagi.amazon.com.br_20260122_173753/request_002.txt", 
+      "url": "https://unagi.amazon.com.br:443/1/events/com.amazon.csm.csa.prod", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/unagi.amazon.com.br_20260122_173753/response_002.txt", 
+      "timestamp": 1769114145206
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/unagi.amazon.com.br_20260122_173753/request_003.txt", 
+      "url": "https://unagi.amazon.com.br:443/1/events/com.amazon.csm.customsg.prod", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/unagi.amazon.com.br_20260122_173753/response_003.txt", 
+      "timestamp": 1769114145729
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/unagi.amazon.com.br_20260122_173753/request_004.txt", 
+      "url": "https://unagi.amazon.com.br:443/1/events/com.amazon.csm.csa.prod", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/unagi.amazon.com.br_20260122_173753/response_004.txt", 
+      "timestamp": 1769114146204
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/unagi.amazon.com.br_20260122_173753/request_005.txt", 
+      "url": "https://unagi.amazon.com.br:443/1/events/com.amazon.eel.SearchAutocompleteUIServiceMetrics.nexus", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/unagi.amazon.com.br_20260122_173753/response_005.txt", 
+      "timestamp": 1769114146415
+    }
+  ], 
+  "host": "unagi.amazon.com.br", 
+  "total_requests": 5
+}
