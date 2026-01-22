@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20260122_171417", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_171417/request_001.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_171417/response_001.txt", 
+      "timestamp": 1769112840289
+    }
+  ], 
+  "host": "api5.smartico.ai", 
+  "total_requests": 1
+}
