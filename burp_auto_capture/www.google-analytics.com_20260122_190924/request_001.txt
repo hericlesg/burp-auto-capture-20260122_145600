@@ -1,0 +1,16 @@
+POST /g/collect?v=2&tid=G-GDRF0XTTLZ&gtm=45je61l0v872897237za20gzb847783196zd847783196&_p=1769104312611&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=698093440.1769104314&ul=pt-br&sr=2560x1080&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&frm=0&pscdl=noapi&_eu=AEAAAAQ&_s=4&tag_exp=103116026~103200004~104527907~104528501~104684208~104684211~105391252~115938466~115938468~117025847~117041588&dl=https%3A%2F%2Fvitoriasports.vip%2Fcadastro&dr=https%3A%2F%2Fvitoriasports.vip%2Fcasino&sid=1769104313&sct=1&seg=1&dt=VIT%C3%93RIA%20SPORTS&_tu=xAQ&en=page_view&_et=10975&tfd=259255 HTTP/2
+Host: www.google-analytics.com
+Content-Length: 0
+Sec-Ch-Ua: 
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.134 Safari/537.36
+Sec-Ch-Ua-Platform: ""
+Accept: */*
+Origin: https://vitoriasports.vip
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://vitoriasports.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+
