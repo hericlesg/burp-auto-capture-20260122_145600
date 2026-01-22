@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20260122_173511", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.amazon.com.br_20260122_173511/request_001.txt", 
+      "url": "https://www.amazon.com.br:443/?tag=admarketbr-20&ref=pd_sl_6f65fa9b38c278ec1c01ba481f801118fc9fa6e2454d56f2220443e5&mfadid=adm", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/www.amazon.com.br_20260122_173511/response_001.txt", 
+      "timestamp": 1769114103932
+    }
+  ], 
+  "host": "www.amazon.com.br", 
+  "total_requests": 1
+}
