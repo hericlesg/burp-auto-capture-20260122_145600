@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20260122_173837", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/unagi-na.amazon.com_20260122_173837/request_001.txt", 
+      "url": "https://unagi-na.amazon.com:443/1/events/com.amazon.eel.p.D16GClientSideMetrics.nexus", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/unagi-na.amazon.com_20260122_173837/response_001.txt", 
+      "timestamp": 1769114147652
+    }
+  ], 
+  "host": "unagi-na.amazon.com", 
+  "total_requests": 1
+}
