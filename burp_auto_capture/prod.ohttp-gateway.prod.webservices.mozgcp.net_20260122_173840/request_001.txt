@@ -1,0 +1,13 @@
+GET /ohttp-configs HTTP/1.1
+Host: prod.ohttp-gateway.prod.webservices.mozgcp.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Priority: u=4
+Te: trailers
+Connection: close
+
