@@ -1,0 +1,31 @@
+{
+  "capture_timestamp": "20260122_171413", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.google-analytics.com_20260122_171413/request_001.txt", 
+      "url": "https://www.google-analytics.com:443/g/collect?v=2&tid=G-GDRF0XTTLZ&gtm=45je61l0v872897237za20gzb847783196zd847783196&_p=1769104312611&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=698093440.1769104314&ul=pt-br&sr=2560x1080&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&frm=0&pscdl=noapi&_eu=AEAAAAQ&_s=4&tag_exp=103116026~103200004~104527907~104528501~104684208~104684211~105391252~115938466~115938468~117025847~117041588&dl=https%3A%2F%2Fvitoriasports.vip%2Fcadastro&dr=https%3A%2F%2Fvitoriasports.vip%2Fcasino&sid=1769104313&sct=1&seg=1&dt=VIT%C3%93RIA%20SPORTS&_tu=xAQ&en=page_view&_et=10975&tfd=259255", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/www.google-analytics.com_20260122_171413/response_001.txt", 
+      "timestamp": 1769104570979
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.google-analytics.com_20260122_171413/request_002.txt", 
+      "url": "https://www.google-analytics.com:443/g/collect?v=2&tid=G-GDRF0XTTLZ&gtm=45je61l0v872897237za20gzb847783196zd847783196&_p=1769104312611&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=698093440.1769104314&ul=pt-br&sr=2560x1080&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&frm=0&pscdl=noapi&_eu=AEAAAAQ&_s=5&tag_exp=103116026~103200004~104527907~104528501~104684208~104684211~105391252~115938466~115938468~117025847~117041588&dl=https%3A%2F%2Fvitoriasports.vip%2Fcasino&dr=https%3A%2F%2Fvitoriasports.vip%2Fcadastro&sid=1769104313&sct=1&seg=1&dt=VIT%C3%93RIA%20SPORTS&en=page_view&_et=154750&tfd=534434", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/www.google-analytics.com_20260122_171413/response_002.txt", 
+      "timestamp": 1769104846148
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.google-analytics.com_20260122_171413/request_003.txt", 
+      "url": "https://www.google-analytics.com:443/g/collect?v=2&tid=G-GDRF0XTTLZ&gtm=45je61l0v872897237za20gzb847783196zd847783196&_p=1769104312611&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=698093440.1769104314&ul=pt-br&sr=2560x1080&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&frm=0&pscdl=noapi&_eu=AAAAAAQ&_s=6&tag_exp=103116026~103200004~104527907~104528501~104684208~104684211~105391252~115938466~115938468~117025847~117041588&sid=1769107751&sct=2&seg=0&dl=https%3A%2F%2Fvitoriasports.vip%2Fcasino&dr=https%3A%2F%2Fvitoriasports.vip%2Fcadastro&dt=VIT%C3%93RIA%20SPORTS&en=user_engagement&_ss=1&tfd=3441966", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/www.google-analytics.com_20260122_171413/response_003.txt", 
+      "timestamp": 1769107751482
+    }
+  ], 
+  "host": "www.google-analytics.com", 
+  "total_requests": 3
+}
