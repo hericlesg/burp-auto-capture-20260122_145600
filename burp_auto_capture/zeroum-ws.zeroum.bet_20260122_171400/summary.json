@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20260122_171400", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/zeroum-ws.zeroum.bet_20260122_171400/request_001.txt", 
+      "url": "https://zeroum-ws.zeroum.bet:443/basehub/negotiate?languageId=pt&timeZone=-3&negotiateVersion=1", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/zeroum-ws.zeroum.bet_20260122_171400/response_001.txt", 
+      "timestamp": 1769112836090
+    }
+  ], 
+  "host": "zeroum-ws.zeroum.bet", 
+  "total_requests": 1
+}
