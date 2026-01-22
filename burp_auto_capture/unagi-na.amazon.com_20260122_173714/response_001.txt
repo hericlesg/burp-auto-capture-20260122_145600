@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: Server
+Date: Thu, 22 Jan 2026 20:35:47 GMT
+Content-Type: application/json
+Content-Length: 2
+Connection: close
+x-amz-rid: A6Z89DBYFMSTPK65C818
+x-amzn-RequestId: f270b059-b734-49b6-8244-d6bffa50b17a
+Vary: Content-Type,Accept-Encoding,User-Agent
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+
+{}
