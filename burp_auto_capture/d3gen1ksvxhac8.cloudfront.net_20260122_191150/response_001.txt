@@ -1,0 +1,141 @@
+HTTP/2 200 OK
+Content-Type: application/json
+Date: Thu, 22 Jan 2026 20:35:46 GMT
+Cache-Control: public, max-age=300
+Access-Control-Allow-Origin: https://www.zeroum.bet
+Vary: Origin, Accept-Encoding
+X-Cache: Miss from cloudfront
+Via: 1.1 ba4ab412b1deeae23ff138b73bbe555a.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: GIG51-P3
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: iAIyVVvpdB53W5hFGEawXbEBpS25-PZE2hHg8wEO7eFDcXA-E1noSw==
+
+{
+  "tournaments": [
+    {
+      "tournamentInstanceId": 723934,
+      "publicMeta": {
+        "featured": false,
+        "image_url": "https://d3l7suk1kl9rwh.cloudfront.net/da0e0a6cc055c779019ef0-SUPERCOPA-EXPERIENCE-544x216.webp",
+        "image_url2": "https://d3l7suk1kl9rwh.cloudfront.net/e421aed52d47e74420dd92-SUPERCOPA-EXPERIENCE-920x200.webp",
+        "description": "<div class=\"z1-wrap\">\n  <div class=\"z1-card\">\n\n    <div class=\"z1-head\">\n      <span class=\"z1-kicker\">ð Torneio Sportsbook</span>\n      <h1 class=\"z1-title\">Supercopa Experience 2026</h1>\n      <p class=\"z1-sub\">17/01/2026 â 25/01/2026 â¢ ExperiÃªncia VIP</p>\n    </div>\n\n    <div class=\"z1-hero\">\n      <p class=\"z1-hero-main\">â½ SUPERCOPA DO REI â DESAFIO FINAL ð¥</p>\n      <p>\n        Aposte na Supercopa e nos seus esportes favoritos<br>\n        <strong>Quanto mais apostar, mais pontos no ranking</strong>\n      </p>\n      <p class=\"z1-hero-prize\">ðï¸ ExperiÃªncia Camarote ManÃ© Garrincha</p>\n      <p class=\"z1-hero-mini\">\n        Ranking vÃ¡lido atÃ© <strong>25/01/2026 Ã s 23h59</strong>\n      </p>\n    </div>\n\n    <div class=\"z1-box\">\n      <h3 class=\"z1-box-title\">â Principais InformaÃ§Ãµes</h3>\n      <ul class=\"z1-list\">\n        <li><strong>Modalidade:</strong> Sportsbook (Apostas Esportivas).</li>\n        <li><strong>MecÃ¢nica:</strong> cada R$ 0,01 apostado = 1 ponto.</li>\n        <li><strong>Opt-in obrigatÃ³rio</strong> para participar.</li>\n        <li>Somente apostas com <strong>saldo real</strong> sÃ£o vÃ¡lidas.</li>\n        <li>PromoÃ§Ã£o vÃ¡lida apenas para <strong>maiores de 18 anos</strong>.</li>\n      </ul>\n    </div>\n\n    <div class=\"z1-box\">\n      <h3 class=\"z1-box-title\">â½ Apostas VÃ¡lidas</h3>\n      <ul class=\"z1-list\">\n        <li><strong>Odd mÃ­nima:</strong> 1.50.</li>\n        <li>Apostas <strong>prÃ©-jogo e ao vivo</strong>.</li>\n        <li>Apostas <strong>simples ou mÃºltiplas</strong>.</li>\n        <li>PontuaÃ§Ã£o creditada apÃ³s a <strong>liquidaÃ§Ã£o da aposta</strong>.</li>\n      </ul>\n    </div>\n\n    <div class=\"z1-box\">\n      <h3 class=\"z1-box-title\">ð« Apostas NÃ£o ElegÃ­veis</h3>\n      <ul class=\"z1-list\">\n        <li>Apostas anuladas, canceladas ou reembolsadas.</li>\n        <li>Apostas com <strong>cashout total ou parcial</strong>.</li>\n        <li>Apostas com indÃ­cios de <strong>fraude ou abuso promocional</strong>.</li>\n      </ul>\n    </div>\n\n    <div class=\"z1-box\">\n      <h3 class=\"z1-box-title\">ð Regras do Torneio</h3>\n      <ul class=\"z1-list\">\n        <li>\n          O torneio funciona em formato de <strong>ranking geral</strong>,\n          considerando a pontuaÃ§Ã£o acumulada em apostas vÃ¡lidas.\n        </li>\n        <li>\n          <strong>MecÃ¢nica:</strong> cada R$ 0,01 apostado equivale a 1 ponto,\n          independentemente do resultado da aposta.\n        </li>\n        <li>\n          O ranking poderÃ¡ ser atualizado em <strong>tempo real</strong> ou\n          em ciclos definidos pela operaÃ§Ã£o.\n        </li>\n        <li>\n          Em caso de empate, o critÃ©rio de desempate serÃ¡:\n          <ul>\n            <li>Quem atingiu a pontuaÃ§Ã£o primeiro</li>\n          </ul>\n        </li>\n        <li>\n          Tentativas de fraude, mÃºltiplas contas ou comportamento irregular\n          resultarÃ£o em <strong>desclassificaÃ§Ã£o imediata</strong>.\n        </li>\n      </ul>\n    </div>\n\n    <div class=\"z1-box\">\n      <h3 class=\"z1-box-title\">ð PremiaÃ§Ã£o</h3>\n      <ul class=\"z1-prizes\">\n        <li><strong>1Âº lugar:</strong> Camarote ManÃ© Garrincha + passagem aÃ©rea + hotel</li>\n        <li><strong>2Âº lugar:</strong> Camarote ManÃ© Garrincha + passagem aÃ©rea + hotel</li>\n        <li><strong>3Âº lugar:</strong> Camarote ManÃ© Garrincha + passagem aÃ©rea + hotel</li>\n      </ul>\n    </div>\n\n    <div class=\"z1-box\">\n      <h3 class=\"z1-box-title\">ð¦ Entrega da ExperiÃªncia</h3>\n      <ul class=\"z1-list\">\n        <li>\n          O evento ocorrerÃ¡ em <strong>01/02/2026</strong>,\n          no EstÃ¡dio ManÃ© Garrincha, em BrasÃ­lia (DF).\n        </li>\n        <li>\n          Datas de voos, hotel e logÃ­stica serÃ£o definidos exclusivamente\n          pela <strong>ZeroUmBet</strong>.\n        </li>\n        <li>\n          O prÃªmio Ã© <strong>pessoal, intransferÃ­vel</strong> e nÃ£o conversÃ­vel em dinheiro.\n        </li>\n      </ul>\n    </div>\n\n    <div class=\"z1-foot\">\n      ð° <strong>Jogue com responsabilidade.</strong>\n    </div>\n\n  </div>\n</div>\n\n\n<style>\n:root{\n  --card: rgba(18,18,20,.82);\n  --border: rgba(255,255,255,.14);\n  --text: #ffffff;\n  --muted: rgba(255,255,255,.75);\n}\n\n*{\n  box-sizing: border-box;\n}\n\n.z1-wrap{\n  background: transparent;\n  padding: 16px;\n  font-family: 'Montserrat', Arial, sans-serif;\n  color: var(--text);\n}\n\n.z1-card{\n  max-width: 560px;\n  margin: 0 auto;\n}\n\n.z1-head{\n  text-align: center;\n  margin-bottom: 14px;\n}\n\n.z1-kicker{\n  display: inline-block;\n  padding: 6px 12px;\n  font-size: 12px;\n  border-radius: 999px;\n  background: rgba(255,255,255,.08);\n  border: 1px solid var(--border);\n  color: var(--muted);\n}\n\n.z1-title{\n  font-size: 22px;\n  margin: 10px 0 4px;\n  font-weight: 900;\n}\n\n.z1-sub{\n  font-size: 13px;\n  color: var(--muted);\n}\n\n.z1-hero{\n  background: linear-gradient(180deg, rgba(255,255,255,.12), rgba(255,255,255,.03));\n  border: 1px solid var(--border);\n  border-radius: 16px;\n  padding: 16px;\n  text-align: center;\n  margin-bottom: 14px;\n  box-shadow: 0 10px 28px rgba(0,0,0,.55);\n}\n\n.z1-hero-main{\n  font-size: 15px;\n  font-weight: 900;\n}\n\n.z1-hero-prize{\n  font-size: 16px;\n  font-weight: 900;\n  margin-top: 6px;\n}\n\n.z1-hero-mini{\n  font-size: 12.5px;\n  color: var(--muted);\n}\n\n.z1-box{\n  background: var(--card);\n  border: 1px solid var(--border);\n  border-radius: 16px;\n  padding: 16px;\n  margin-bottom: 12px;\n  box-shadow: 0 8px 22px rgba(0,0,0,.55);\n}\n\n.z1-box-title{\n  font-size: 14px;\n  font-weight: 900;\n  margin-bottom: 10px;\n}\n\n.z1-list{\n  padding-left: 18px;\n  font-size: 13.5px;\n  line-height: 1.45;\n}\n\n.z1-prizes{\n  list-style: none;\n  padding: 0;\n  margin: 0;\n  font-size: 13.5px;\n}\n\n.z1-prizes li{\n  padding: 5px 0;\n}\n\n.z1-foot{\n  text-align: center;\n  font-size: 12.5px;\n  color: var(--muted);\n  margin-top: 16px;\n}\n\n@media (min-width: 768px){\n  .z1-card{\n    max-width: 720px;\n  }\n}\n</style>\n",
+        "image_url2_mobile": "https://d3l7suk1kl9rwh.cloudfront.net/5bc2c60f2877a6e57a8dcc-SUPERCOPA-EXPERIENCE-720x400.webp",
+        "prize_pool_short": "ExperiÃªncia Camarote",
+        "custom_data_is_valid_json": false,
+        "custom_price_text": "R$ 0,01 = 1 ponto",
+        "name": "SUPERCOPA EXPERIENCE 2026",
+        "position": "5",
+        "show_other_users_score": true
+      },
+      "buyInAmount": 0,
+      "prizePool": 0,
+      "startTime": "17/01/2026 03:03:00",
+      "startTimeTs": 1768618980000,
+      "endTime": "25/01/2026 03:03:00",
+      "endTimeTs": 1769310180000,
+      "registrationCount": 3460,
+      "totalCount": 0,
+      "registrationType": 2,
+      "tournamentInstanceStatus": 3,
+      "tournamentType": 1,
+      "isUserRegistered": false,
+      "tournamentRegistrationStatus": null,
+      "allowLateRegistration": true,
+      "playersMinCount": 1,
+      "playersMaxCount": 10000,
+      "durationMs": 691200000,
+      "tournamentId": 3413,
+      "related_games": null,
+      "prizeStructure": null,
+      "tournamentPlayer": null,
+      "minScoreToWin": 1,
+      "hideLeaderboardsMinScores": false
+    },
+    {
+      "tournamentInstanceId": 717657,
+      "publicMeta": {
+        "featured": false,
+        "image_url": "https://d3l7suk1kl9rwh.cloudfront.net/af0a414c480d5d7117cdb1-544x216Imgparalistadetorneios.webp",
+        "image_url2": "https://d3l7suk1kl9rwh.cloudfront.net/f0444d206f37389e6aa166-920x200Imgparaolobbydotorneio.webp",
+        "description": "<div class=\"z1-wrap\">\n  <div class=\"z1-card\">\n\n    <div class=\"z1-head\">\n      <span class=\"z1-kicker\">âï¸ Torneio de VerÃ£o</span>\n      <h1 class=\"z1-title\">VerÃ£o ZeroUm | Peter & Sons Challenge</h1>\n      <p class=\"z1-sub\">01/01/2026 â 31/01/2026 â¢ 101 jogadores premiados</p>\n    </div>\n\n    <div class=\"z1-hero\">\n      <p class=\"z1-hero-main\">âï¸ PETER & SONS â WINTER EDITION ð¥</p>\n      <p>\n        Jogue durante todo o mÃªs<br>\n        <strong>Quanto mais jogar, mais pontos no ranking</strong>\n      </p>\n      <p class=\"z1-hero-prize\">ð R$ 165.000 em prÃªmios em dinheiro</p>\n      <p class=\"z1-hero-mini\">\n        Ranking vÃ¡lido atÃ© o Ãºltimo dia de janeiro\n      </p>\n    </div>\n\n    <div class=\"z1-box\">\n      <h3 class=\"z1-box-title\">â Principais InformaÃ§Ãµes</h3>\n      <ul class=\"z1-list\">\n        <li><strong>Total de premiados:</strong> 101 jogadores.</li>\n        <li><strong>MecÃ¢nica:</strong> cada R$ 0,01 apostado = 1 ponto.</li>\n        <li><strong>Opt-in obrigatÃ³rio</strong> para participar.</li>\n        <li><strong>Aposta mÃ­nima:</strong> R$ 1,00.</li>\n        <li>Somente apostas com saldo real sÃ£o vÃ¡lidas.</li>\n      </ul>\n    </div>\n\n    <div class=\"z1-box\">\n      <h3 class=\"z1-box-title\">ð® Jogos Participantes</h3>\n      <div class=\"z1-chips\">\n        <span>Barbarossa â Winter Edition</span>\n        <span>Frozen Age â Winter Edition</span>\n        <span>Legend of Musashi â Winter Edition</span>\n        <span>Book of Books</span>\n        <span>Ghostfather â Awakened</span>\n      </div>\n    </div>\n\n    <div class=\"z1-box\">\n      <h3 class=\"z1-box-title\">ð Regras do Torneio</h3>\n      <ul class=\"z1-list\">\n        <li>\n          O torneio funciona em formato de <strong>ranking geral</strong>,\n          considerando a pontuaÃ§Ã£o acumulada nos jogos participantes.\n        </li>\n        <li>\n          <strong>MecÃ¢nica:</strong> cada R$ 0,01 apostado equivale a 1 ponto.\n        </li>\n        <li>\n          Apenas apostas realizadas nos jogos participantes acumulam pontos.\n        </li>\n        <li>\n          <strong>Aposta mÃ­nima:</strong> R$ 1,00 por rodada.\n        </li>\n        <li>\n          O ranking serÃ¡ encerrado ao final do dia <strong>31/01/2026</strong>.\n        </li>\n        <li>\n          Tentativas de fraude resultarÃ£o em <strong>desclassificaÃ§Ã£o imediata</strong>.\n        </li>\n      </ul>\n    </div>\n\n    <div class=\"z1-box\">\n      <h3 class=\"z1-box-title\">ð PremiaÃ§Ã£o</h3>\n      <ul class=\"z1-prizes\">\n        <li><strong>1Âº lugar:</strong> R$ 30.000</li>\n        <li><strong>2Âº lugar:</strong> R$ 20.000</li>\n        <li><strong>3Âº lugar:</strong> R$ 15.000</li>\n        <li><strong>4Âº ao 10Âº lugar:</strong> R$ 4.000 cada</li>\n        <li><strong>11Âº ao 30Âº lugar:</strong> R$ 1.500 cada</li>\n        <li><strong>31Âº ao 60Âº lugar:</strong> R$ 900 cada</li>\n        <li><strong>61Âº ao 101Âº lugar:</strong> R$ 365 cada</li>\n      </ul>\n    </div>\n\n    <div class=\"z1-foot\">\n      ð° <strong>Jogue com responsabilidade.</strong>\n    </div>\n\n  </div>\n</div>\n\n<style>\n:root{\n  --card: rgba(18,18,20,.82);\n  --border: rgba(255,255,255,.14);\n  --text: #ffffff;\n  --muted: rgba(255,255,255,.75);\n}\n\n*{\n  box-sizing: border-box;\n}\n\n.z1-wrap{\n  background: transparent;\n  padding: 16px;\n  font-family: 'Montserrat', Arial, sans-serif;\n  color: var(--text);\n}\n\n.z1-card{\n  max-width: 560px;\n  margin: 0 auto;\n}\n\n.z1-head{\n  text-align: center;\n  margin-bottom: 14px;\n}\n\n.z1-kicker{\n  display: inline-block;\n  padding: 6px 12px;\n  font-size: 12px;\n  border-radius: 999px;\n  background: rgba(255,255,255,.08);\n  border: 1px solid var(--border);\n  color: var(--muted);\n}\n\n.z1-title{\n  font-size: 22px;\n  margin: 10px 0 4px;\n  font-weight: 900;\n}\n\n.z1-sub{\n  font-size: 13px;\n  color: var(--muted);\n}\n\n.z1-hero{\n  background: linear-gradient(180deg, rgba(255,255,255,.12), rgba(255,255,255,.03));\n  border: 1px solid var(--border);\n  border-radius: 16px;\n  padding: 16px;\n  text-align: center;\n  margin-bottom: 14px;\n  box-shadow: 0 10px 28px rgba(0,0,0,.55);\n}\n\n.z1-hero-main{\n  font-size: 15px;\n  font-weight: 900;\n}\n\n.z1-hero-prize{\n  font-size: 16px;\n  font-weight: 900;\n  margin-top: 6px;\n}\n\n.z1-hero-mini{\n  font-size: 12.5px;\n  color: var(--muted);\n}\n\n.z1-box{\n  background: var(--card);\n  border: 1px solid var(--border);\n  border-radius: 16px;\n  padding: 16px;\n  margin-bottom: 12px;\n  box-shadow: 0 8px 22px rgba(0,0,0,.55);\n}\n\n.z1-box-title{\n  font-size: 14px;\n  font-weight: 900;\n  margin-bottom: 10px;\n}\n\n.z1-list{\n  padding-left: 18px;\n  font-size: 13.5px;\n  line-height: 1.45;\n}\n\n.z1-chips{\n  display: flex;\n  flex-wrap: wrap;\n  gap: 8px;\n}\n\n.z1-chips span{\n  background: rgba(255,255,255,.12);\n  border: 1px solid rgba(255,255,255,.18);\n  padding: 7px 11px;\n  border-radius: 999px;\n  font-size: 12px;\n}\n\n.z1-prizes{\n  list-style: none;\n  padding: 0;\n  margin: 0;\n  font-size: 13.5px;\n}\n\n.z1-prizes li{\n  padding: 5px 0;\n}\n\n.z1-foot{\n  text-align: center;\n  font-size: 12.5px;\n  color: var(--muted);\n  margin-top: 16px;\n}\n\n@media (min-width: 768px){\n  .z1-card{\n    max-width: 720px;\n  }\n}\n</style>\n\n",
+        "image_url2_mobile": "https://d3l7suk1kl9rwh.cloudfront.net/98adfaf37b9e9565f161f6-720x400Imgparaolobbydotorneio-mobile-min.webp",
+        "prize_pool_short": "R$165.000,00",
+        "custom_data_is_valid_json": false,
+        "custom_price_text": "R$ 0,01 = 1 ponto",
+        "name": "VERÃO ZEROUM | PETER & SONS CHALLENGE",
+        "position": "4",
+        "show_other_users_score": true
+      },
+      "buyInAmount": 0,
+      "prizePool": 0,
+      "startTime": "01/01/2026 03:02:00",
+      "startTimeTs": 1767236520000,
+      "endTime": "02/02/2026 03:02:00",
+      "endTimeTs": 1770001320000,
+      "registrationCount": 15135,
+      "totalCount": 0,
+      "registrationType": 2,
+      "tournamentInstanceStatus": 3,
+      "tournamentType": 1,
+      "isUserRegistered": false,
+      "tournamentRegistrationStatus": null,
+      "allowLateRegistration": true,
+      "playersMinCount": 1,
+      "playersMaxCount": 40000,
+      "durationMs": 2764800000,
+      "tournamentId": 3306,
+      "related_games": null,
+      "prizeStructure": null,
+      "tournamentPlayer": null,
+      "minScoreToWin": 1,
+      "hideLeaderboardsMinScores": false
+    },
+    {
+      "tournamentInstanceId": 724572,
+      "publicMeta": {
+        "featured": false,
+        "label_tag": "hot",
+        "image_url": "https://d3l7suk1kl9rwh.cloudfront.net/da0be2211111b72ca8e6bd-544_x_216_Img_para_lista_de_torneios1.webp",
+        "image_url2": "https://d3l7suk1kl9rwh.cloudfront.net/5ea7253d3bd4ef6c0c9c1b-1840-x-400-Responsivo.webp",
+        "description": "<div class=\"z1-wrap\">\n  <div class=\"z1-card\">\n\n    <div class=\"z1-head\">\n      <span class=\"z1-kicker\">âï¸ Torneio de VerÃ£o</span>\n      <h1 class=\"z1-title\">Z1 VERÃO 50K</h1>\n      <p class=\"z1-sub\">18/01 â 22/01 â¢ 100 jogadores premiados</p>\n    </div>\n\n    <div class=\"z1-hero\">\n      <p class=\"z1-hero-main\">ð¥ Z1 VERÃO 50K ð¥</p>\n      <p>\n        Jogue durante a semana<br>\n        <strong>Quanto mais apostar, mais pontos no ranking</strong>\n      </p>\n      <p class=\"z1-hero-prize\">ð R$ 50.000 em prÃªmios</p>\n      <p class=\"z1-hero-mini\">\n        Ranking vÃ¡lido atÃ© o dia 22/01\n      </p>\n    </div>\n\n    <div class=\"z1-box\">\n      <h3 class=\"z1-box-title\">â Principais InformaÃ§Ãµes</h3>\n      <ul class=\"z1-list\">\n        <li><strong>Total de premiados:</strong> 100 jogadores.</li>\n        <li><strong>MecÃ¢nica:</strong> cada R$ 0,01 apostado = 1 ponto.</li>\n        <li><strong>Opt-in obrigatÃ³rio</strong> para participar.</li>\n        <li><strong>Aposta mÃ­nima:</strong> R$ 1,00.</li>\n        <li>Somente apostas com saldo real sÃ£o vÃ¡lidas.</li>\n      </ul>\n    </div>\n\n    <div class=\"z1-box\">\n      <h3 class=\"z1-box-title\">ð® Jogos Participantes</h3>\n      <div class=\"z1-chips\">\n        <span>Capybara</span>\n        <span>Boto</span>\n        <span>Saci</span>\n        <span>Arara da Sorte</span>\n        <span>Yo Dragon</span>\n        <span>Greedy Alice</span>\n        <span>Lucky Jaguar 500</span>\n        <span>Crazy Hunter</span>\n      </div>\n    </div>\n\n    <div class=\"z1-box\">\n      <h3 class=\"z1-box-title\">ð Regras do Torneio</h3>\n      <ul class=\"z1-list\">\n        <li>\n          O torneio acontece em formato de <strong>ranking geral</strong>,\n          considerando os pontos acumulados durante o perÃ­odo.\n        </li>\n        <li>\n          <strong>MecÃ¢nica:</strong> cada R$ 0,01 apostado equivale a 1 ponto.\n        </li>\n        <li>\n          Apenas apostas realizadas nos jogos participantes acumulam pontos.\n        </li>\n        <li>\n          <strong>Aposta mÃ­nima:</strong> R$ 1,00 por rodada.\n        </li>\n        <li>\n          O ranking serÃ¡ encerrado ao final do dia <strong>22/01</strong>.\n        </li>\n        <li>\n          Tentativas de fraude resultarÃ£o em <strong>desclassificaÃ§Ã£o imediata</strong>.\n        </li>\n      </ul>\n    </div>\n\n    <div class=\"z1-box\">\n      <h3 class=\"z1-box-title\">ð PremiaÃ§Ã£o</h3>\n      <ul class=\"z1-list\">\n        <li>ð° <strong>R$ 50.000</strong> distribuÃ­dos entre os 100 melhores colocados.</li>\n        <li>A premiaÃ§Ã£o Ã© proporcional Ã  posiÃ§Ã£o final no ranking.</li>\n        <li>Quanto mais alto no ranking, maior o prÃªmio.</li>\n      </ul>\n    </div>\n\n    <div class=\"z1-foot\">\n      ð° <strong>Jogue com responsabilidade.</strong>\n    </div>\n\n  </div>\n</div>\n\n<style>\n:root{\n  --card: rgba(18,18,20,.82);\n  --border: rgba(255,255,255,.14);\n  --text: #ffffff;\n  --muted: rgba(255,255,255,.75);\n}\n\n*{\n  box-sizing: border-box;\n}\n\n.z1-wrap{\n  background: transparent;\n  padding: 16px;\n  font-family: 'Montserrat', Arial, sans-serif;\n  color: var(--text);\n}\n\n.z1-card{\n  max-width: 560px;\n  margin: 0 auto;\n}\n\n.z1-head{\n  text-align: center;\n  margin-bottom: 14px;\n}\n\n.z1-kicker{\n  display: inline-block;\n  padding: 6px 12px;\n  font-size: 12px;\n  border-radius: 999px;\n  background: rgba(255,255,255,.08);\n  border: 1px solid var(--border);\n  color: var(--muted);\n}\n\n.z1-title{\n  font-size: 22px;\n  margin: 10px 0 4px;\n  font-weight: 900;\n}\n\n.z1-sub{\n  font-size: 13px;\n  color: var(--muted);\n}\n\n.z1-hero{\n  background: linear-gradient(180deg, rgba(255,255,255,.12), rgba(255,255,255,.03));\n  border: 1px solid var(--border);\n  border-radius: 16px;\n  padding: 16px;\n  text-align: center;\n  margin-bottom: 14px;\n  box-shadow: 0 10px 28px rgba(0,0,0,.55);\n}\n\n.z1-hero-main{\n  font-size: 15px;\n  font-weight: 900;\n}\n\n.z1-hero-prize{\n  font-size: 16px;\n  font-weight: 900;\n  margin-top: 6px;\n}\n\n.z1-hero-mini{\n  font-size: 12.5px;\n  color: var(--muted);\n}\n\n.z1-box{\n  background: var(--card);\n  border: 1px solid var(--border);\n  border-radius: 16px;\n  padding: 16px;\n  margin-bottom: 12px;\n  box-shadow: 0 8px 22px rgba(0,0,0,.55);\n}\n\n.z1-box-title{\n  font-size: 14px;\n  font-weight: 900;\n  margin-bottom: 10px;\n}\n\n.z1-list{\n  padding-left: 18px;\n  font-size: 13.5px;\n  line-height: 1.45;\n}\n\n.z1-chips{\n  display: flex;\n  flex-wrap: wrap;\n  gap: 8px;\n}\n\n.z1-chips span{\n  background: rgba(255,255,255,.12);\n  border: 1px solid rgba(255,255,255,.18);\n  padding: 7px 11px;\n  border-radius: 999px;\n  font-size: 12px;\n}\n\n.z1-prizes{\n  list-style: none;\n  padding: 0;\n  margin: 0;\n  font-size: 13.5px;\n}\n\n.z1-prizes li{\n  padding: 5px 0;\n}\n\n.z1-foot{\n  text-align: center;\n  font-size: 12.5px;\n  color: var(--muted);\n  margin-top: 16px;\n}\n\n@media (min-width: 768px){\n  .z1-card{\n    max-width: 720px;\n  }\n}\n</style>\n",
+        "image_url2_mobile": "https://d3l7suk1kl9rwh.cloudfront.net/037247457b41d09ab5ab28-720_x_400_Img_para_o_lobby_do_torneio_-_mobile1.webp",
+        "prize_pool_short": "R$50.000,00",
+        "custom_data_is_valid_json": false,
+        "custom_price_text": "R$ 0,01 = 1 ponto",
+        "name": "Z1 VERÃO 50K",
+        "position": "1",
+        "show_other_users_score": true
+      },
+      "buyInAmount": 0,
+      "prizePool": 0,
+      "startTime": "18/01/2026 17:50:00",
+      "startTimeTs": 1768758600000,
+      "endTime": "22/01/2026 17:50:00",
+      "endTimeTs": 1769104200000,
+      "registrationCount": 6969,
+      "totalCount": 0,
+      "registrationType": 2,
+      "tournamentInstanceStatus": 4,
+      "tournamentType": 1,
+      "isUserRegistered": false,
+      "tournamentRegistrationStatus": null,
+      "allowLateRegistration": true,
+      "playersMinCount": 1,
+      "playersMaxCount": 40000,
+      "durationMs": 345600000,
+      "tournamentId": 3417,
+      "related_games": null,
+      "prizeStructure": null,
+      "tournamentPlayer": null,
+      "minScoreToWin": 1,
+      "hideLeaderboardsMinScores": false
+    }
+  ],
+  "errCode": 0,
+  "errMsg": "",
+  "cid": 518,
+  "ts": 1769114130614,
+  "uuid": "f8cfad7e-3895-4bf7-9e93-8be178740962",
+  "payload": null,
+  "duration": null
+}
