@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20260122_191038", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/prod.ohttp-gateway.prod.webservices.mozgcp.net_20260122_191038/request_001.txt", 
+      "url": "https://prod.ohttp-gateway.prod.webservices.mozgcp.net:443/ohttp-configs", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/prod.ohttp-gateway.prod.webservices.mozgcp.net_20260122_191038/response_001.txt", 
+      "timestamp": 1769114102575
+    }
+  ], 
+  "host": "prod.ohttp-gateway.prod.webservices.mozgcp.net", 
+  "total_requests": 1
+}
