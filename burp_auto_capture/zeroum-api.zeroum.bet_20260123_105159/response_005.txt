@@ -1,0 +1,22 @@
+HTTP/2 200 OK
+Content-Type: application/json; charset=utf-8
+Vary: Accept-Encoding
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: https://www.zeroum.bet
+Vary: Origin
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Length: 2136
+Cache-Control: max-age=30
+Date: Thu, 22 Jan 2026 20:13:54 GMT
+Set-Cookie: AWSALB=ZW+oXlD3UvJTkNYIpN9+XnHJ0TOG24TPH/EHA9azNVrePSs2da7J/QQv/YfyGjEv4fvfwpPO+vrMXZLle97CEqGbjC8jUpcDMItfaIRZqkhgNNbuyPwim2ZKyya7; Expires=Thu, 29 Jan 2026 20:13:54 GMT; Path=/
+Set-Cookie: AWSALBCORS=ZW+oXlD3UvJTkNYIpN9+XnHJ0TOG24TPH/EHA9azNVrePSs2da7J/QQv/YfyGjEv4fvfwpPO+vrMXZLle97CEqGbjC8jUpcDMItfaIRZqkhgNNbuyPwim2ZKyya7; Expires=Thu, 29 Jan 2026 20:13:54 GMT; Path=/; SameSite=None; Secure
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=80
+Server-Timing: origin; dur=137
+Server-Timing: ak_p; desc="1769112834626_399702863_1596169549_21648_8425_5_0_15";dur=1
+
+[{"ps":33,"pn":"Fortune Ox","s":"fortuneox","prs":"pgsoft","prn":"PGSoft","bt":"2026-01-22T20:12:54.857Z","p":"Priscilla","ba":0.0000,"wa":2000.0000,"i":"/assets/images/products/FORTUNEOX-PG.webp"},{"ps":35,"pn":"Fortune Tiger","s":"fortunetiger","prs":"pgsoft","prn":"PGSoft","bt":"2026-01-22T20:12:46.93Z","p":"Thiago","ba":2.0000,"wa":112.0000,"i":"/assets/images/products/Thumb-FORTUNETIGER-PG.webp","m":56.0},{"ps":2004228,"pn":"Money Coming","s":"moneycoming","prs":"tada","prn":"Tada","bt":"2026-01-22T20:12:44.139Z","p":"Keitiane","ba":5.0000,"wa":500.0000,"i":"/assets/images/products/tada/gb_money\u2028coming_420x560_1803.webp","m":100.0},{"ps":33,"pn":"Fortune Ox","s":"fortuneox","prs":"pgsoft","prn":"PGSoft","bt":"2026-01-22T20:12:41.591Z","p":"Stephanie","ba":2.0000,"wa":200.0000,"i":"/assets/images/products/FORTUNEOX-PG.webp","m":100.0},{"ps":2000284,"pn":"Fortune Dragon","s":"fortunedragon","prs":"pgsoft","prn":"PGSoft","bt":"2026-01-22T20:12:33.642Z","p":"Maria","ba":2.8000,"wa":140.0000,"i":"/assets/images/products/Thumb-FORTUNEDRAGON-PG.webp","m":50.0},{"ps":35,"pn":"Fortune Tiger","s":"fortunetiger","prs":"pgsoft","prn":"PGSoft","bt":"2026-01-22T20:12:27.771Z","p":"Suellen","ba":4.0000,"wa":228.0000,"i":"/assets/images/products/Thumb-FORTUNETIGER-PG.webp","m":57.0},{"ps":33,"pn":"Fortune Ox","s":"fortuneox","prs":"pgsoft","prn":"PGSoft","bt":"2026-01-22T20:12:27.882Z","p":"Marta","ba":0.0000,"wa":3000.0000,"i":"/assets/images/products/FORTUNEOX-PG.webp"},{"ps":2005653,"pn":"Yo Dragon","s":"yodragon","prs":"popok","prn":"PopOk","bt":"2026-01-22T20:11:53.919Z","p":"Patricia","ba":1.0000,"wa":109.5000,"i":"/assets/images/products/Thumb-YODRAGON-Popok.png","m":109.5},{"ps":2005653,"pn":"Yo Dragon","s":"yodragon","prs":"popok","prn":"PopOk","bt":"2026-01-22T20:12:04.514Z","p":"ELISANGELA","ba":2.0000,"wa":106.0000,"i":"/assets/images/products/Thumb-YODRAGON-Popok.png","m":53.0},{"ps":35,"pn":"Fortune Tiger","s":"fortunetiger","prs":"pgsoft","prn":"PGSoft","bt":"2026-01-22T20:12:00.885Z","p":"Luisa","ba":500.0000,"wa":2500.0000,"i":"/assets/images/products/Thumb-FORTUNETIGER-PG.webp","m":5.0}]
