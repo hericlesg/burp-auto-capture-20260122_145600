@@ -1,0 +1,10 @@
+HTTP/2 200 OK
+Date: Thu, 22 Jan 2026 20:35:04 GMT
+Content-Type: application/json
+Server: nginx
+Vary: Accept-Encoding
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://www.zeroum.bet
+Vary: Origin
+
+{"negotiateVersion":1,"connectionId":"nW6B7LsYW3PgXsAzdmYdCQ","connectionToken":"x7QDPPgeHYc4NCbtVa339Q","availableTransports":[{"transport":"WebSockets","transferFormats":["Text","Binary"]},{"transport":"ServerSentEvents","transferFormats":["Text"]},{"transport":"LongPolling","transferFormats":["Text","Binary"]}]}
