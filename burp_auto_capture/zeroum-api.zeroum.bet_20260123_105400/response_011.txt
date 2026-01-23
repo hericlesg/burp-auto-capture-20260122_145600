@@ -1,0 +1,23 @@
+HTTP/1.1 404 Not Found
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: https://www.zeroum.bet
+Vary: Origin
+X-Frame-Options: DENY
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Length: 26
+Expires: Thu, 22 Jan 2026 20:35:29 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Thu, 22 Jan 2026 20:35:29 GMT
+Connection: keep-alive
+Set-Cookie: AWSALB=QpZvjUg7AaIV7npBKIVVG7TIgmzZhfn9FK3+gMBqeeKOax+aHS0sC+Br1VxSLENw0wt59iJtVowQ3w6hjcGhTVQjqgNBLnY+4SGthw4haURf473DWjiAwAVaX9t+; Expires=Thu, 29 Jan 2026 20:35:29 GMT; Path=/
+Set-Cookie: AWSALBCORS=QpZvjUg7AaIV7npBKIVVG7TIgmzZhfn9FK3+gMBqeeKOax+aHS0sC+Br1VxSLENw0wt59iJtVowQ3w6hjcGhTVQjqgNBLnY+4SGthw4haURf473DWjiAwAVaX9t+; Expires=Thu, 29 Jan 2026 20:35:29 GMT; Path=/; SameSite=None; Secure
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=146
+Server-Timing: origin; dur=16
+Server-Timing: ak_p; desc="1769114129545_399702863_1605836603_16114_10896_5_7_-";dur=1
+
+No Connection with that ID
