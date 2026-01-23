@@ -1,0 +1,22 @@
+HTTP/2 200 OK
+Date: Thu, 22 Jan 2026 17:57:33 GMT
+Content-Type: application/json
+Server: cloudflare
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Expires: on, 01 Jan 1970 00:00:00 GMT
+Last-Modified: Thu, 22 Jan 2026 17:57:33 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: ci_session=a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%22c8666c083acb9382e482138f8fd76828%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A13%3A%22189.63.35.230%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A116%3A%22Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F114.0.5735.134+Safari%2F537.36%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1769104653%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7D02f04e21b482bb1c51682bb8ef3297e550484aee; expires=Thu, 22-Jan-2026 19:57:33 GMT; Max-Age=7200; path=/
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept, Authorization
+Access-Control-Allow-Credentials: true
+Access-Control-Max-Age: 86400
+Cf-Cache-Status: DYNAMIC
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=QjCQr8%2Bw%2FbMPA8VQUX8qHo2wrbWdqvEL69sCvdZIdYXF8O4KgMvrXgX5DRZT0UG%2FaWfIpG14BY19sEE6g%2BmCn1C4B1ZAMv1r1QCeTO0aA8iidfuVgiQL6eg%3D"}]}
+Cf-Ray: 9c20ef355ebdf8bf-GRU
+Alt-Svc: h3=":443"; ma=86400
+
+{"success":true,"results":{"validarCpfAtivado":true,"nome":"RENATA ********* *******","menorDeIdade":false,"data_nascimento":"2*\/1*\/1***","genero":"Feminino","dados":"4a524e5372523362375841704234612b766e73564e4e586d5467415163624d667742677279522b5055445475733453303941635732676e516544466b77586b4b6b5361427631614c77454476414866676c433958332b5631384a33306b4f4737412b6d465042516f74556c76436d57424866486731777250614e4f4d63427247346f4534527a786e346b375a794f6b48654f6f4c31575239426d616f525144514e69414661764434506f39744d4a766466677871494431445a6556734b5a4c6958636e38622b4e675062576a5a644548575573345231377a6d355a75786a31385a5270712b796a70466268527131756b6c4b69515753346e4d753675686351527a616c78426f535570595944657545427933434d457630346b4b4141576b452f2f68456741474d6f586b4e5a476c336f2b467a4f63373368396e566d726b52565952674168304543677864354b78396b5178524f2b773d3dfec2d8fff2577e591dafaedf57891b6c"},"pagination":null}
