@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: Server
+Date: Thu, 22 Jan 2026 20:35:45 GMT
+Content-Type: application/json
+Content-Length: 2
+Connection: close
+x-amz-rid: FZ0M2B85F5FR1VPMDWS8
+x-amzn-RequestId: 229d4f84-eb6b-43f1-9e7b-b960dd215f60
+Access-Control-Allow-Origin: https://www.amazon.com.br
+Access-Control-Expose-Headers: x-amzn-RequestId,x-amzn-ErrorType,x-amzn-ErrorMessage,Date
+Access-Control-Allow-Credentials: true
+Vary: Origin,Content-Type,Accept-Encoding,User-Agent
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+
+{}
