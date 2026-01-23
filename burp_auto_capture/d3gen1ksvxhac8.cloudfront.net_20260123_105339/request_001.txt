@@ -1,0 +1,17 @@
+POST /visitorGame/63c5bac2-155b-47c2-a5b6-ded82565d875-5/b8de650f/PT/517 HTTP/2
+Host: d3gen1ksvxhac8.cloudfront.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Referer: https://www.zeroum.bet/
+Content-Type: application/json
+Content-Length: 139
+Origin: https://www.zeroum.bet
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Priority: u=4
+Te: trailers
+
+{"api_key":"63c5bac2-155b-47c2-a5b6-ded82565d875","cid":517,"uuid":"e845c64b-870c-409b-80b6-18a61c9fcbcf","ts":1769114146032,"src":"v-api"}
