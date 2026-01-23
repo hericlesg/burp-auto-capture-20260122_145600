@@ -1,0 +1,31 @@
+{
+  "capture_timestamp": "20260123_105037", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api.stores.us-east-1.prod.paets.advertising.amazon.dev_20260123_105037/request_001.txt", 
+      "url": "https://api.stores.us-east-1.prod.paets.advertising.amazon.dev:443/v1/ad-events/loaded/01KFKPNTZ6P8NT9EM3RMGH9A1Y?publisherId=stores&pj=%7B%7D", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/api.stores.us-east-1.prod.paets.advertising.amazon.dev_20260123_105037/response_001.txt", 
+      "timestamp": 1769114142602
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api.stores.us-east-1.prod.paets.advertising.amazon.dev_20260123_105037/request_002.txt", 
+      "url": "https://api.stores.us-east-1.prod.paets.advertising.amazon.dev:443/v1/ad-events/loaded/01KFKPNV0GCC7CR1PK51AVS1TZ?publisherId=stores", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/api.stores.us-east-1.prod.paets.advertising.amazon.dev_20260123_105037/response_002.txt", 
+      "timestamp": 1769114142732
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api.stores.us-east-1.prod.paets.advertising.amazon.dev_20260123_105037/request_003.txt", 
+      "url": "https://api.stores.us-east-1.prod.paets.advertising.amazon.dev:443/v1/ad-events/loaded/01KFKPNV0GCC7CR1PK51AVS1TY?publisherId=stores", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/api.stores.us-east-1.prod.paets.advertising.amazon.dev_20260123_105037/response_003.txt", 
+      "timestamp": 1769114142760
+    }
+  ], 
+  "host": "api.stores.us-east-1.prod.paets.advertising.amazon.dev", 
+  "total_requests": 3
+}
