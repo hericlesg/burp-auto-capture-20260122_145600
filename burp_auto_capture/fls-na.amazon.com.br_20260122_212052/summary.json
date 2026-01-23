@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20260122_212052", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/fls-na.amazon.com.br_20260122_212052/request_001.txt", 
+      "url": "https://fls-na.amazon.com.br:443/1/batch/1/OE/", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/fls-na.amazon.com.br_20260122_212052/response_001.txt", 
+      "timestamp": 1769114145237
+    }
+  ], 
+  "host": "fls-na.amazon.com.br", 
+  "total_requests": 1
+}
