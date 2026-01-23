@@ -1,0 +1,63 @@
+{
+  "capture_timestamp": "20260122_223119", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.amazon.com.br_20260122_223119/request_001.txt", 
+      "url": "https://www.amazon.com.br:443/?tag=admarketbr-20&ref=pd_sl_6f65fa9b38c278ec1c01ba481f801118fc9fa6e2454d56f2220443e5&mfadid=adm", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/www.amazon.com.br_20260122_223119/response_001.txt", 
+      "timestamp": 1769114103932
+    }, 
+    {
+      "method": "HEAD", 
+      "request_file": "burp_auto_capture/www.amazon.com.br_20260122_223119/request_002.txt", 
+      "url": "https://www.amazon.com.br:443/suggestions", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/www.amazon.com.br_20260122_223119/response_002.txt", 
+      "timestamp": 1769114142197
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.amazon.com.br_20260122_223119/request_003.txt", 
+      "url": "https://www.amazon.com.br:443/af/feedback-link?pl=%7B%22adPlacementMetaData%22%3A%7B%22adElementId%22%3A%22ape_Gateway_desktop-homepage-btf-card-1_desktop_placement%22%2C%22pageType%22%3A%22Gateway%22%2C%22pageUrl%22%3A%22aHR0cHM6Ly93d3cuYW1hem9uLmNvbS5ici8%2FdGFnPWFkbWFya2V0YnItMjAmcmVmPXBkX3NsXzZmNjVmYTliMzhjMjc4ZWMxYzAxYmE0ODFmODAxMTE4ZmM5ZmE2ZTI0NTRkNTZmMjIyMDQ0M2U1Jm1mYWRpZD1hZG0%3D%22%2C%22slotName%22%3A%22desktop-homepage-btf-card-1%22%7D%2C%22adCreativeMetaData%22%3A%7B%22adProgramId%22%3A%221002%22%2C%22adId%22%3A%22580433857325776666%22%2C%22adCreativeId%22%3A%22578181949765890111%22%2C%22adImpressionId%22%3A%22https%3A%2F%2Fapi.stores.us-east-1.prod.paets.advertising.amazon.dev%2Fv1%2Fad-events%2Floaded%2F01KFKPNV0GCC7CR1PK51AVS1TZ%3FpublisherId%3Dstores%22%2C%22adNetwork%22%3A%22cs%22%2C%22adCreativeDetails%22%3A%5B%5D%7D%7D", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/www.amazon.com.br_20260122_223119/response_003.txt", 
+      "timestamp": 1769114142223
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.amazon.com.br_20260122_223119/request_004.txt", 
+      "url": "https://www.amazon.com.br:443/af/feedback-link?pl=%7B%22adPlacementMetaData%22%3A%7B%22pageUrl%22%3A%22aHR0cHM6Ly93d3cuYW1hem9uLmNvbS5ici8%2FdGFnPWFkbWFya2V0YnItMjAmcmVmPXBkX3NsXzZmNjVmYTliMzhjMjc4ZWMxYzAxYmE0ODFmODAxMTE4ZmM5ZmE2ZTI0NTRkNTZmMjIyMDQ0M2U1Jm1mYWRpZD1hZG0%3D%22%2C%22adElementId%22%3A%22ape_Gateway_right-2_desktop_placement%22%2C%22pageType%22%3A%22Gateway%22%2C%22slotName%22%3A%22right-2%22%7D%2C%22adCreativeMetaData%22%3A%7B%22adProgramId%22%3A%221001%22%2C%22adId%22%3A%22579858325585757805%22%2C%22adCreativeId%22%3A%22594222229206516631%22%2C%22adImpressionId%22%3A%22https%3A%2F%2Fapi.stores.us-east-1.prod.paets.advertising.amazon.dev%2Fv1%2Fad-events%2Floaded%2F01KFKPNTZ6P8NT9EM3RMGH9A1Y%3FpublisherId%3Dstores%22%2C%22adNetwork%22%3A%22cs%22%2C%22adCreativeDetails%22%3A%5B%5D%7D%7D", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/www.amazon.com.br_20260122_223119/response_004.txt", 
+      "timestamp": 1769114142230
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.amazon.com.br_20260122_223119/request_005.txt", 
+      "url": "https://www.amazon.com.br:443/af/feedback-link?pl=%7B%22adPlacementMetaData%22%3A%7B%22adElementId%22%3A%22ape_Gateway_desktop-homepage-btf-card-3_desktop_placement%22%2C%22pageType%22%3A%22Gateway%22%2C%22pageUrl%22%3A%22aHR0cHM6Ly93d3cuYW1hem9uLmNvbS5ici8%2FdGFnPWFkbWFya2V0YnItMjAmcmVmPXBkX3NsXzZmNjVmYTliMzhjMjc4ZWMxYzAxYmE0ODFmODAxMTE4ZmM5ZmE2ZTI0NTRkNTZmMjIyMDQ0M2U1Jm1mYWRpZD1hZG0%3D%22%2C%22slotName%22%3A%22desktop-homepage-btf-card-3%22%7D%2C%22adCreativeMetaData%22%3A%7B%22adProgramId%22%3A%221002%22%2C%22adId%22%3A%22585199766596729716%22%2C%22adCreativeId%22%3A%22591777506218627138%22%2C%22adImpressionId%22%3A%22https%3A%2F%2Fapi.stores.us-east-1.prod.paets.advertising.amazon.dev%2Fv1%2Fad-events%2Floaded%2F01KFKPNV0GCC7CR1PK51AVS1TY%3FpublisherId%3Dstores%22%2C%22adNetwork%22%3A%22cs%22%2C%22adCreativeDetails%22%3A%5B%5D%7D%7D", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/www.amazon.com.br_20260122_223119/response_005.txt", 
+      "timestamp": 1769114142274
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.amazon.com.br_20260122_223119/request_006.txt", 
+      "url": "https://www.amazon.com.br:443/b/?_encoding=UTF8&ie=UTF8&node=120337274011&pd_rd_w=7LyIa&content-id=amzn1.sym.7697c80a-3b63-4db6-b221-0062c497028a&pf_rd_p=7697c80a-3b63-4db6-b221-0062c497028a&pf_rd_r=TR4JM8NSNBHA03TF8NN0&pd_rd_wg=SNILP&pd_rd_r=94049124-c061-4b4f-aa47-9cddd4c4279e&ref_=pd_hp_d_hero_unk", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/www.amazon.com.br_20260122_223119/response_006.txt", 
+      "timestamp": 1769114146550
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.amazon.com.br_20260122_223119/request_007.txt", 
+      "url": "https://www.amazon.com.br:443/nav/ajax/wishlist?wishlistItems=wishlist&metricKey=wishlistMetric&ajaxTemplate=wishlist&rid=TR4JM8NSNBHA03TF8NN0&_=1769114146444", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/www.amazon.com.br_20260122_223119/response_007.txt", 
+      "timestamp": 1769114146650
+    }
+  ], 
+  "host": "www.amazon.com.br", 
+  "total_requests": 7
+}
