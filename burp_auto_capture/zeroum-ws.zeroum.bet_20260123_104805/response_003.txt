@@ -1,0 +1,10 @@
+HTTP/1.1 404 Not Found
+Date: Thu, 22 Jan 2026 20:35:42 GMT
+Connection: keep-alive
+Server: nginx
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://www.zeroum.bet
+Vary: Origin
+Content-Length: 26
+
+No Connection with that ID
