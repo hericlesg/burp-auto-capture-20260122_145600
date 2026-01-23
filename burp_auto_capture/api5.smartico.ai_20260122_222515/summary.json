@@ -1,0 +1,551 @@
+{
+  "capture_timestamp": "20260122_222515", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_001.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_001.txt", 
+      "timestamp": 1769112840289
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_002.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_002.txt", 
+      "timestamp": 1769114107091
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_003.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_003.txt", 
+      "timestamp": 1769114120210
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_004.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_004.txt", 
+      "timestamp": 1769114134584
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_005.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_005.txt", 
+      "timestamp": 1769119561986
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_006.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_006.txt", 
+      "timestamp": 1769119575132
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_007.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_007.txt", 
+      "timestamp": 1769119589268
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_008.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 8, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_008.txt", 
+      "timestamp": 1769119604395
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_009.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 9, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_009.txt", 
+      "timestamp": 1769119620575
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_010.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 10, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_010.txt", 
+      "timestamp": 1769119638846
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_011.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 11, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_011.txt", 
+      "timestamp": 1769119659164
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_012.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 12, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_012.txt", 
+      "timestamp": 1769119679348
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_013.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 13, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_013.txt", 
+      "timestamp": 1769119699495
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_014.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 14, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_014.txt", 
+      "timestamp": 1769119719604
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_015.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 15, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_015.txt", 
+      "timestamp": 1769119749974
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_016.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 16, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_016.txt", 
+      "timestamp": 1769119770072
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_017.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 17, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_017.txt", 
+      "timestamp": 1769119790231
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_018.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 18, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_018.txt", 
+      "timestamp": 1769119810389
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_019.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 19, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_019.txt", 
+      "timestamp": 1769119830508
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_020.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 20, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_020.txt", 
+      "timestamp": 1769119850817
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_021.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 21, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_021.txt", 
+      "timestamp": 1769119871127
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_022.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 22, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_022.txt", 
+      "timestamp": 1769119891478
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_023.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 23, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_023.txt", 
+      "timestamp": 1769119921830
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_024.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 24, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_024.txt", 
+      "timestamp": 1769119941982
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_025.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 25, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_025.txt", 
+      "timestamp": 1769119962217
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_026.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 26, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_026.txt", 
+      "timestamp": 1769119982427
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_027.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 27, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_027.txt", 
+      "timestamp": 1769120002764
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_028.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 28, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_028.txt", 
+      "timestamp": 1769120023010
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_029.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 29, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_029.txt", 
+      "timestamp": 1769120043383
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_030.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 30, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_030.txt", 
+      "timestamp": 1769120063562
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_031.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 31, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_031.txt", 
+      "timestamp": 1769120093848
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_032.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 32, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_032.txt", 
+      "timestamp": 1769120114170
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_033.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 33, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_033.txt", 
+      "timestamp": 1769120134466
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_034.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 34, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_034.txt", 
+      "timestamp": 1769120154711
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_035.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 35, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_035.txt", 
+      "timestamp": 1769120175014
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_036.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 36, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_036.txt", 
+      "timestamp": 1769120195224
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_037.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 37, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_037.txt", 
+      "timestamp": 1769120215511
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_038.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 38, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_038.txt", 
+      "timestamp": 1769120235732
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_039.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 39, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_039.txt", 
+      "timestamp": 1769120266075
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_040.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 40, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_040.txt", 
+      "timestamp": 1769120286300
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_041.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 41, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_041.txt", 
+      "timestamp": 1769127625351
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_042.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 42, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_042.txt", 
+      "timestamp": 1769127638420
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_043.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 43, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_043.txt", 
+      "timestamp": 1769127652544
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_044.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 44, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_044.txt", 
+      "timestamp": 1769127667705
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_045.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 45, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_045.txt", 
+      "timestamp": 1769127683884
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_046.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 46, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_046.txt", 
+      "timestamp": 1769127702062
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_047.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 47, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_047.txt", 
+      "timestamp": 1769127740936
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_048.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 48, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_048.txt", 
+      "timestamp": 1769127742554
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_049.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 49, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_049.txt", 
+      "timestamp": 1769131061282
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_050.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 50, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_050.txt", 
+      "timestamp": 1769131074381
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_051.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 51, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_051.txt", 
+      "timestamp": 1769131088508
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_052.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 52, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_052.txt", 
+      "timestamp": 1769131103576
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_053.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 53, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_053.txt", 
+      "timestamp": 1769131119833
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_054.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 54, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_054.txt", 
+      "timestamp": 1769131138051
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_055.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 55, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_055.txt", 
+      "timestamp": 1769131182504
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_056.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 56, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_056.txt", 
+      "timestamp": 1769131182764
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_057.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 57, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_057.txt", 
+      "timestamp": 1769131198938
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_058.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 58, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_058.txt", 
+      "timestamp": 1769131219162
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_059.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 59, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_059.txt", 
+      "timestamp": 1769131249733
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_060.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 60, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_060.txt", 
+      "timestamp": 1769131270074
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_061.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 61, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_061.txt", 
+      "timestamp": 1769131304112
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_062.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 62, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_062.txt", 
+      "timestamp": 1769131310575
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_063.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 63, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_063.txt", 
+      "timestamp": 1769131330755
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_064.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 64, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_064.txt", 
+      "timestamp": 1769131350963
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_065.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 65, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_065.txt", 
+      "timestamp": 1769131371234
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_066.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 66, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_066.txt", 
+      "timestamp": 1769131391397
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_067.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 67, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_067.txt", 
+      "timestamp": 1769131431808
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/request_068.txt", 
+      "url": "https://api5.smartico.ai:443/websocket/services?master&domain=www.zeroum.bet&version=1.3.333", 
+      "sequence_number": 68, 
+      "response_file": "burp_auto_capture/api5.smartico.ai_20260122_222515/response_068.txt", 
+      "timestamp": 1769131451921
+    }
+  ], 
+  "host": "api5.smartico.ai", 
+  "total_requests": 68
+}
