@@ -1,0 +1,14 @@
+HTTP/2 200 OK
+Date: Thu, 22 Jan 2026 20:35:47 GMT
+Content-Type: text/event-stream
+Server: nginx
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://www.zeroum.bet
+Cache-Control: no-cache,no-store
+Content-Encoding: identity
+Pragma: no-cache
+Vary: Origin
+
+:
+data: {"error":"Handshake was canceled."}
+
