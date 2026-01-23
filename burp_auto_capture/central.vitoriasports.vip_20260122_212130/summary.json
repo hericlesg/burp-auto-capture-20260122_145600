@@ -1,0 +1,47 @@
+{
+  "capture_timestamp": "20260122_212130", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/central.vitoriasports.vip_20260122_212130/request_001.txt", 
+      "url": "https://central.vitoriasports.vip:443/api/financeiro/regras-promocoes", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/central.vitoriasports.vip_20260122_212130/response_001.txt", 
+      "timestamp": 1769104565315
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/central.vitoriasports.vip_20260122_212130/request_002.txt", 
+      "url": "https://central.vitoriasports.vip:443/api/clientes/consult-cpf-already-exists?cpf=147.577.418-47", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/central.vitoriasports.vip_20260122_212130/response_002.txt", 
+      "timestamp": 1769104566972
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/central.vitoriasports.vip_20260122_212130/request_003.txt", 
+      "url": "https://central.vitoriasports.vip:443/api/clientes/consultar-cpf?cpf=147.577.418-47", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/central.vitoriasports.vip_20260122_212130/response_003.txt", 
+      "timestamp": 1769104570595
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/central.vitoriasports.vip_20260122_212130/request_004.txt", 
+      "url": "https://central.vitoriasports.vip:443/api/clientes/consult-cpf-already-exists?cpf=147.577.418-47", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/central.vitoriasports.vip_20260122_212130/response_004.txt", 
+      "timestamp": 1769104655822
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/central.vitoriasports.vip_20260122_212130/request_005.txt", 
+      "url": "https://central.vitoriasports.vip:443/api/clientes/consultar-cpf?cpf=147.577.418-47", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/central.vitoriasports.vip_20260122_212130/response_005.txt", 
+      "timestamp": 1769104656085
+    }
+  ], 
+  "host": "central.vitoriasports.vip", 
+  "total_requests": 5
+}
