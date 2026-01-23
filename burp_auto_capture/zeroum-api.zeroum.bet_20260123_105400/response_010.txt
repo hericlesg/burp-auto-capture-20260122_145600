@@ -1,0 +1,22 @@
+HTTP/2 200 OK
+Content-Type: application/json; charset=utf-8
+Vary: Accept-Encoding
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: https://www.zeroum.bet
+Vary: Origin
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Length: 2347
+Cache-Control: max-age=30
+Date: Thu, 22 Jan 2026 20:35:03 GMT
+Set-Cookie: AWSALB=yiM6So5IAkD/2YqSjm80qqHpHgTAMRZadaFYFK8bRAHp9DMd3L/IYvYOVz1EySVcVXy/GAlj5xwwQEvV7fuuyGGQuZMp1UC4XVACMjdS0Q08NbpU6m1UTRb7Yf9+; Expires=Thu, 29 Jan 2026 20:35:03 GMT; Path=/
+Set-Cookie: AWSALBCORS=yiM6So5IAkD/2YqSjm80qqHpHgTAMRZadaFYFK8bRAHp9DMd3L/IYvYOVz1EySVcVXy/GAlj5xwwQEvV7fuuyGGQuZMp1UC4XVACMjdS0Q08NbpU6m1UTRb7Yf9+; Expires=Thu, 29 Jan 2026 20:35:03 GMT; Path=/; SameSite=None; Secure
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=67
+Server-Timing: origin; dur=120
+Server-Timing: ak_p; desc="1769114103432_399702852_3245627508_19076_7836_7_0_15";dur=1
+
+[{"ps":33,"pn":"Fortune Ox","s":"fortuneox","prs":"pgsoft","prn":"PGSoft","bt":"2026-01-22T20:34:11.592Z","p":"Clara","ba":2.0000,"wa":200.0000,"i":"/assets/images/products/FORTUNEOX-PG.webp","m":100.0},{"ps":2008123,"pn":"Arara da Sorte","s":"arara-da-sorte","prs":"tada","prn":"Tada","bt":"2026-01-22T20:33:53.685Z","p":"Kaline","ba":3.0000,"wa":324.0000,"i":"/assets/images/products/Thumb-ARARADASORTE-Evoplay.png","m":108.0},{"ps":33,"pn":"Fortune Ox","s":"fortuneox","prs":"pgsoft","prn":"PGSoft","bt":"2026-01-22T20:33:39.451Z","p":"Carla","ba":40.0000,"wa":2000.0000,"i":"/assets/images/products/FORTUNEOX-PG.webp","m":50.0},{"ps":86,"pn":"Prosperity Lion","s":"prosperitylion","prs":"pgsoft","prn":"PGSoft","bt":"2026-01-22T20:33:31.539Z","p":"Leiliane","ba":1.8000,"wa":102.0000,"i":"/assets/images/products/Thumb-Prosperity-Lion.webp","m":56.7},{"ps":33,"pn":"Fortune Ox","s":"fortuneox","prs":"pgsoft","prn":"PGSoft","bt":"2026-01-22T20:33:31.485Z","p":"Silmara","ba":4.0000,"wa":200.0000,"i":"/assets/images/products/FORTUNEOX-PG.webp","m":50.0},{"ps":2001433,"pn":"Odds On Winner","s":"frontrunneroddson","prs":"pragmaticplay","prn":"PragmaticPlay","bt":"2026-01-22T20:28:19.212Z","p":"THAMIRES","ba":1.0000,"wa":132.5000,"i":"/assets/images/products/pragmaticplay/front_runner_odds_on.webp","m":132.5},{"ps":2000284,"pn":"Fortune Dragon","s":"fortunedragon","prs":"pgsoft","prn":"PGSoft","bt":"2026-01-22T20:33:24.496Z","p":"GUILHERME","ba":0.0000,"wa":2150.4000,"i":"/assets/images/products/Thumb-FORTUNEDRAGON-PG.webp"},{"ps":54351,"pn":"Wild Wild Riches Megaways","s":"wildwildrichesmegaways","prs":"pragmaticplay","prn":"PragmaticPlay","bt":"2026-01-22T20:32:06.082Z","p":"SUELLEN","ba":8.0000,"wa":789.6000,"i":"/assets/images/products/pragmaticplay/wild_wild_riches_megaways.webp","m":98.7},{"ps":2004492,"pn":"Gates of Olympus Super Scatter","s":"gates-of-olympus-super-scatter","prs":"pragmaticplay","prn":"PragmaticPlay","bt":"2026-01-22T20:31:42.54Z","p":"PATRICK","ba":1.5000,"wa":258.4500,"i":"/assets/images/products/Thumb-SuperScatter-Pragmatic.png","m":172.3},{"ps":54331,"pn":"PIZZA! PIZZA? PIZZA!","s":"pizza-pizza-pizza","prs":"pragmaticplay","prn":"PragmaticPlay","bt":"2026-01-22T20:29:42.991Z","p":"Marlene","ba":1.0000,"wa":224.9000,"i":"/assets/images/products/pragmaticplay/pizza_pizza-pizza.webp","m":224.9}]
