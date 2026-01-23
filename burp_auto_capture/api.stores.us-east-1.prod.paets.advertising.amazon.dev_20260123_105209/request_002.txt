@@ -1,0 +1,13 @@
+GET /v1/ad-events/loaded/01KFKPNV0GCC7CR1PK51AVS1TZ?publisherId=stores HTTP/2
+Host: api.stores.us-east-1.prod.paets.advertising.amazon.dev
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Referer: https://images-na.ssl-images-amazon.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Te: trailers
+
