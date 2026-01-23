@@ -1,0 +1,6 @@
+HTTP/2 204 No Content
+Date: Thu, 22 Jan 2026 20:35:45 GMT
+X-Amzn-Requestid: c2f89614-8981-43ef-8446-e58ff5060014
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: x-amzn-RequestId,x-amzn-ErrorType,x-amzn-ErrorMessage,Date,smithy-protocol
+
