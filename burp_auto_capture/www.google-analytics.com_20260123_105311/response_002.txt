@@ -1,0 +1,16 @@
+HTTP/2 204 No Content
+Access-Control-Allow-Origin: https://vitoriasports.vip
+Date: Thu, 22 Jan 2026 18:00:43 GMT
+Pragma: no-cache
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+Cache-Control: no-cache, no-store, must-revalidate
+Access-Control-Allow-Credentials: true
+Content-Type: text/plain
+Cross-Origin-Resource-Policy: cross-origin
+Content-Security-Policy-Report-Only: script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/ascnsrsggc:112:0
+Cross-Origin-Opener-Policy-Report-Only: same-origin; report-to=ascnsrsggc:112:0
+Report-To: {"group":"ascnsrsggc:112:0","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/ascnsrsggc:112:0"}],}
+Server: Golfe2
+Content-Length: 0
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
