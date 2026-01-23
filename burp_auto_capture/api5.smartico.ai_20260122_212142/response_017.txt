@@ -1,0 +1,8 @@
+HTTP/1.1 101 Switching Protocols
+Date: Thu, 22 Jan 2026 22:09:49 GMT
+Connection: upgrade
+Set-Cookie: JSESSIONID=node09anmyiaowuje1l738tfno05ap2384214.node0; Path=/
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Upgrade: websocket
+Sec-WebSocket-Accept: +JakNSj8tkDaXc+Dh+i0MSo3930=
+
