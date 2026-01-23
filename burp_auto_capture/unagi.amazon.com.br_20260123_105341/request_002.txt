@@ -1,0 +1,19 @@
+POST /1/events/com.amazon.csm.csa.prod HTTP/1.1
+Host: unagi.amazon.com.br
+Cookie: session-id=134-7890520-6324531; session-id-time=2082787201l; i18n-prefs=BRL; lc-acbbr=pt_BR; ubid-acbbr=131-9144806-3557326
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Referer: https://www.amazon.com.br/
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 1535
+Origin: https://www.amazon.com.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+Priority: u=6
+Te: trailers
+Connection: close
+
+{"events":[{"data":{"schemaId":"csa.UEData.3","timestamp":"2026-01-22T20:35:44.751Z","producerId":"csa","messageId":"wijmy0-hi7f82-apsjez-4ogjz3","application":"Retail:Prod:www.amazon.com.br","url":"https://www.amazon.com.br/?tag=admarketbr-20&ref=pd_sl_6f65fa9b38c278ec1c01ba481f801118fc9fa6e2454d56f2220443e5&mfadid=adm","referrer":"","eventName":"ul","lob":"1","id":"TR4JM8NSNBHA03TF8NN0","csmtags":["aui","aui:aui_build_date:3.25.10-2026-01-13","aui:sw:page_proxy:no_ctrl","navbar","FWCIMEnabled","fls-na-amazon-com-br","ak_cdn_fr","ak_cdn_mp","adrender:43e8131f-1fea-42de-9880-470e264f1961","adrender:Gateway:right-2:desktop","adrender:lightad:43e8131f-1fea-42de-9880-470e264f1961","adrender:lightad:Gateway:right-2:desktop","adrender:43e8131f-1fea-42de-9880-470e264f1961:creativeid:594222229206516631","adrender:Gateway:right-2:desktop:creativeid:594222229206516631","adrender:43e8131f-1fea-42de-9880-470e264f1961:programid:1001","adrender:Gateway:right-2:desktop:programid:1001","adrender:43e8131f-1fea-42de-9880-470e264f1961:creativetemplatename:unknown","adrender:Gateway:right-2:desktop:creativetemplatename:unknown","adblk_no","csm-feature-touch-enabled:false","adrender","adrender:safeframe","adrender:creativetemplatename:unknown","adrender:creativeid:578181949765890111","adrender:programid:1002","adrender:creativeid:591777506218627138"],"viz":["visible:2"],"sessionId":"134-7890520-6324531","obfuscatedMarketplaceId":"A2Q3Y263D00KWC","pageInfo":{"pty":"Gateway","spty":"desktop","pti":"desktop"},"t":"1769114144750"}}]}
