@@ -1,0 +1,17 @@
+POST /1/events/com.amazon.eel.SearchAutocompleteUIServiceMetrics.nexus HTTP/1.1
+Host: unagi.amazon.com.br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Referer: https://www.amazon.com.br/
+Content-Type: application/json
+Content-Length: 161
+Origin: https://www.amazon.com.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-site
+Te: trailers
+Connection: close
+
+{"events":[{"data":{"metricName":"HeadLatency","platform":"desktop","marketplaceId":"A2Q3Y263D00KWC","isError":false,"timestamp":1769114143853,"latency":1870}}]}
