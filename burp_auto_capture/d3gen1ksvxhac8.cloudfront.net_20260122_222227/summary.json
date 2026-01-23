@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20260122_222227", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/d3gen1ksvxhac8.cloudfront.net_20260122_222227/request_001.txt", 
+      "url": "https://d3gen1ksvxhac8.cloudfront.net:443/visitorGame/63c5bac2-155b-47c2-a5b6-ded82565d875-5/b8de650f/PT/517", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/d3gen1ksvxhac8.cloudfront.net_20260122_222227/response_001.txt", 
+      "timestamp": 1769114146491
+    }
+  ], 
+  "host": "d3gen1ksvxhac8.cloudfront.net", 
+  "total_requests": 1
+}
