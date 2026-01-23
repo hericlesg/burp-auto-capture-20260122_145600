@@ -1,0 +1,22 @@
+HTTP/2 200 OK
+Date: Thu, 22 Jan 2026 17:56:04 GMT
+Content-Type: application/json
+Server: cloudflare
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Expires: on, 01 Jan 1970 00:00:00 GMT
+Last-Modified: Thu, 22 Jan 2026 17:56:04 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: ci_session=a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%221a6d2982667a30a65f00f723f766c5fa%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A13%3A%22189.63.35.230%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A116%3A%22Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F114.0.5735.134+Safari%2F537.36%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1769104564%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7D766ae9dc2198d04c178f453da72bea04c2119678; expires=Thu, 22-Jan-2026 19:56:04 GMT; Max-Age=7200; path=/
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept, Authorization
+Access-Control-Allow-Credentials: true
+Access-Control-Max-Age: 86400
+Cf-Cache-Status: DYNAMIC
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=KJbMhFaLqxAk7Eu6%2BjxoubjuWkfBXfRal%2BN29ekQaxpKd5khtdMzz%2BVIjSD7Pd93oQcRxfllkiNLfK3MXXKtgcrIir8rqht289pPdffL8h%2F3SviCTeDeBPc%3D"}]}
+Cf-Ray: 9c20ed089ea7c663-GRU
+Alt-Svc: h3=":443"; ma=86400
+
+{"success":true,"results":{"cpf_available":true},"pagination":null}
