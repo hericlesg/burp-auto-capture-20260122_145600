@@ -1,0 +1,16 @@
+GET /b/?_encoding=UTF8&ie=UTF8&node=120337274011&pd_rd_w=7LyIa&content-id=amzn1.sym.7697c80a-3b63-4db6-b221-0062c497028a&pf_rd_p=7697c80a-3b63-4db6-b221-0062c497028a&pf_rd_r=TR4JM8NSNBHA03TF8NN0&pd_rd_wg=SNILP&pd_rd_r=94049124-c061-4b4f-aa47-9cddd4c4279e&ref_=pd_hp_d_hero_unk HTTP/2
+Host: www.amazon.com.br
+Cookie: session-id=134-7890520-6324531; session-id-time=2082787201l; i18n-prefs=BRL; lc-acbbr=pt_BR; csm-hit=tb:TR4JM8NSNBHA03TF8NN0+s-TR4JM8NSNBHA03TF8NN0|1769114144747&t:1769114144747&adb:adblk_no; ubid-acbbr=131-9144806-3557326
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Referer: https://www.amazon.com.br/?tag=admarketbr-20&ref=pd_sl_6f65fa9b38c278ec1c01ba481f801118fc9fa6e2454d56f2220443e5&mfadid=adm
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Priority: u=0, i
+Te: trailers
+
